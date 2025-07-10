@@ -1114,6 +1114,7 @@ void menu()
 
     printf("Please select an option : ");
     scanf("%d", &option);
+    
     fflush(stdin);
 
     switch (option)
